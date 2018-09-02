@@ -25,6 +25,6 @@
 * [Edit NotAuthenticated.js for Friendly Redirect.](edit-notauthenticated.js-for-friendly-redirect..md)
 * [Global Styling](global-styling.md)
 * [Logout](logout.md)
-* [Deploy](deploy.md)
+* [Deploy and Custom domain](deploy.md)
 * [Add standard for Lint](add-standard-for-lint.md)
 

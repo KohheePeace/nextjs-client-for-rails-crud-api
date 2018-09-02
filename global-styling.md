@@ -116,8 +116,18 @@ MyDocument.getInitialProps = ctx => {
 }
 
 export default MyDocument
-
 ```
 {% endcode-tabs-item %}
 {% endcode-tabs %}
+
+
+
+
+
+### Styling way
+
+1. material-ui jss by `withStyles` 
+2. nextjs `styled-jsx` 
+3. react style attributes `<Button style={{color: 'red}} />` 
+4. global style by nextjs
 

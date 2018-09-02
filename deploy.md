@@ -1,4 +1,4 @@
-# Deploy
+# Deploy and Custom domain
 
 
 
@@ -19,6 +19,10 @@ yarn run build
 ```
 
 {% embed data="{\"url\":\"https://nextjs.org/learn/basics/deploying-a-nextjs-app/build-your-app-locally\",\"type\":\"link\",\"title\":\"Deploying a Next.js App - Learn Next.js\"}" %}
+
+
+
+{% embed data="{\"url\":\"https://zeit.co/docs/features/aliases\",\"type\":\"link\",\"title\":\"Aliases and Domains - ZEIT Documentation\",\"description\":\"All you need to know about assigning domains to your Now deployments\",\"icon\":{\"type\":\"icon\",\"url\":\"https://assets.zeit.co/image/upload/front/favicon/android-chrome-192x192.png\",\"width\":192,\"height\":192,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://assets.zeit.co/image/upload/front/zeit/twitter-card.png\",\"width\":1500,\"height\":1120,\"aspectRatio\":0.7466666666666667}}" %}
 
 
 

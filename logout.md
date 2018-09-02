@@ -22,7 +22,6 @@ export const logout = async () => {
   Cookie.remove('expiresAt')
 
   Router.push('/')
-  clearTimeout(tokenRenewalTimeout)
   addMessage('successfully logout!')
 }
 ```
