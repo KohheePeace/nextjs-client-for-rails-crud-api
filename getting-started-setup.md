@@ -1,6 +1,6 @@
 # Chap1 Nextjs Setup
 
-{% embed data="{\"url\":\"https://nextjs.org/learn/basics/getting-started/setup\",\"type\":\"link\",\"title\":\"Getting Started - Learn Next.js\"}" %}
+{% embed url="https://nextjs.org/learn/basics/getting-started/setup" %}
 
 
 

@@ -112,19 +112,19 @@ The way to achieve this ...
 
 
 
-{% embed data="{\"url\":\"https://medium.com/@veelenga/displaying-rails-flash-messages-with-react-5f82982f241c\",\"type\":\"link\",\"title\":\"Displaying Rails flash messages with React\",\"description\":\"Rails has a nice and useful mechanism to communicate to user via flash messages. By default these messages come from backend and are…\",\"icon\":{\"type\":\"icon\",\"url\":\"https://cdn-images-1.medium.com/fit/c/304/304/1\*8I-HPL0bfoIzGied-dzOvA.png\",\"width\":152,\"height\":152,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://cdn-images-1.medium.com/max/2000/1\*tR7DdtgNq\_hEABhr5BxctA.gif\",\"width\":1176,\"height\":542,\"aspectRatio\":0.4608843537414966}}" %}
+{% embed url="https://medium.com/@veelenga/displaying-rails-flash-messages-with-react-5f82982f241c" %}
 
 
 
-{% embed data="{\"url\":\"https://medium.freecodecamp.org/how-to-show-informational-messages-using-material-ui-in-a-react-web-app-5b108178608\",\"type\":\"link\",\"title\":\"How to show in-app messages using Material-UI in a React web app\",\"description\":\"In some situations, your web app needs to show an informational message to tell users whether an event was successful or not. For example…\",\"icon\":{\"type\":\"icon\",\"url\":\"https://cdn-images-1.medium.com/fit/c/304/304/1\*MotlWcSa2n6FrOx3ul89kw.png\",\"width\":152,\"height\":152,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://cdn-images-1.medium.com/max/1364/1\*awO-09f5MGtVvnkbVLoBDA.png\",\"width\":682,\"height\":363,\"aspectRatio\":0.532258064516129}}" %}
+{% embed url="https://medium.freecodecamp.org/how-to-show-informational-messages-using-material-ui-in-a-react-web-app-5b108178608" %}
 
-{% embed data="{\"url\":\"https://itnext.io/understanding-the-react-context-api-through-building-a-shared-snackbar-for-in-app-notifications-6c199446b80c\",\"type\":\"link\",\"title\":\"Learn the React Context API with a Practical Example You Can Bring to Your Apps\",\"description\":\"Building a Shared Material UI Snackbar for In-App Notifications\",\"icon\":{\"type\":\"icon\",\"url\":\"https://cdn-images-1.medium.com/fit/c/304/304/1\*yAqDFIFA5F\_NXalOJKz4TA.png\",\"width\":152,\"height\":152,\"aspectRatio\":1},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://cdn-images-1.medium.com/max/1024/1\*tDxVH\_WUqvu7fiNorh\_EfQ.png\",\"width\":512,\"height\":444,\"aspectRatio\":0.8671875}}" %}
+{% embed url="https://itnext.io/understanding-the-react-context-api-through-building-a-shared-snackbar-for-in-app-notifications-6c199446b80c" %}
 
 
 
-{% embed data="{\"url\":\"https://next.plnkr.co/edit/37nutSDTWp8GGv2r\",\"type\":\"link\",\"title\":\"Change state from anywhere without Redux\",\"description\":\"Created on https://plnkr.co: Helping you build the web.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://next.plnkr.co/favicon.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://shot.plnkr.co/37nutSDTWp8GGv2r.png\",\"width\":400,\"height\":300,\"aspectRatio\":0.75}}" %}
+{% embed url="https://next.plnkr.co/edit/37nutSDTWp8GGv2r" %}
 
-{% embed data="{\"url\":\"https://next.plnkr.co/edit/EpLm1Bq3ASiWECoE\",\"type\":\"link\",\"title\":\"Context State Change\",\"description\":\"Created on https://plnkr.co: Helping you build the web.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://next.plnkr.co/favicon.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://shot.plnkr.co/EpLm1Bq3ASiWECoE.png\",\"width\":400,\"height\":300,\"aspectRatio\":0.75}}" %}
+{% embed url="https://next.plnkr.co/edit/EpLm1Bq3ASiWECoE" %}
 
 ### Use addMessage
 

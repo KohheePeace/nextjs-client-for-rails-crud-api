@@ -19,11 +19,11 @@ import { setToken } from '../utils/auth'
 
 We store sensible info in cookie. To easily store and retrieve cookie we use...
 
-{% embed data="{\"url\":\"https://github.com/js-cookie/js-cookie\",\"type\":\"link\",\"title\":\"js-cookie/js-cookie\",\"description\":\"js-cookie - A simple, lightweight JavaScript API for handling browser cookies\",\"icon\":{\"type\":\"icon\",\"url\":\"https://github.com/fluidicon.png\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://avatars3.githubusercontent.com/u/11557446?s=400&v=4\",\"width\":288,\"height\":288,\"aspectRatio\":1}}" %}
+{% embed url="https://github.com/js-cookie/js-cookie" %}
 
 js-cookie is also used in this repo.
 
-{% embed data="{\"url\":\"https://github.com/luisrudge/next.js-auth0\",\"type\":\"link\",\"title\":\"luisrudge/next.js-auth0\",\"description\":\"next.js-auth0 - a simple example that shows how to use next.js with auth0\",\"icon\":{\"type\":\"icon\",\"url\":\"https://github.com/fluidicon.png\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://avatars2.githubusercontent.com/u/941075?s=400&v=4\",\"width\":400,\"height\":400,\"aspectRatio\":1}}" %}
+{% embed url="https://github.com/luisrudge/next.js-auth0" %}
 
 ```text
 yarn add js-cookie
@@ -80,7 +80,7 @@ So, this is might be different of the backend language.
 >
 > **Default:** Cookie is removed when the user closes the browser.
 
-{% embed data="{\"url\":\"https://github.com/js-cookie/js-cookie\#expires\",\"type\":\"link\",\"title\":\"js-cookie/js-cookie\",\"description\":\"js-cookie - A simple, lightweight JavaScript API for handling browser cookies\",\"icon\":{\"type\":\"icon\",\"url\":\"https://github.com/fluidicon.png\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://avatars3.githubusercontent.com/u/11557446?s=400&v=4\",\"width\":288,\"height\":288,\"aspectRatio\":1}}" %}
+{% embed url="https://github.com/js-cookie/js-cookie\#expires" %}
 
 
 

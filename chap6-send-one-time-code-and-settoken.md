@@ -16,7 +16,7 @@ Nextjs uses [isomorphic-unfetch](https://github.com/developit/unfetch/tree/maste
 
 But you can do almost same things with axios.
 
-{% embed data="{\"url\":\"https://github.com/axios/axios\",\"type\":\"link\",\"title\":\"axios/axios\",\"description\":\"axios - Promise based HTTP client for the browser and node.js\",\"icon\":{\"type\":\"icon\",\"url\":\"https://github.com/fluidicon.png\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://avatars1.githubusercontent.com/u/32372333?s=400&v=4\",\"width\":420,\"height\":420,\"aspectRatio\":1}}" %}
+{% embed url="https://github.com/axios/axios" %}
 
 
 

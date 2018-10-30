@@ -4,7 +4,7 @@
 
 ### Install material-ui
 
-{% embed data="{\"url\":\"https://github.com/mui-org/material-ui/tree/master/examples/nextjs\",\"type\":\"link\",\"title\":\"mui-org/material-ui\",\"description\":\"material-ui - React components that implement Google\'s Material Design.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://github.com/fluidicon.png\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://avatars0.githubusercontent.com/u/33663932?s=400&v=4\",\"width\":400,\"height\":400,\"aspectRatio\":1}}" %}
+{% embed url="https://github.com/mui-org/material-ui/tree/master/examples/nextjs" %}
 
 ```text
 yarn add @material-ui/core
@@ -259,9 +259,9 @@ export default function getPageContext() {
 
 ### Change Font
 
-{% embed data="{\"url\":\"https://github.com/mui-org/material-ui/issues/9988\",\"type\":\"link\",\"title\":\"change default font family · Issue \#9988 · mui-org/material-ui\",\"description\":\"how to change default font family for all components ?!!\",\"icon\":{\"type\":\"icon\",\"url\":\"https://github.com/fluidicon.png\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://avatars0.githubusercontent.com/u/27071195?s=400&v=4\",\"width\":400,\"height\":400,\"aspectRatio\":1}}" %}
+{% embed url="https://github.com/mui-org/material-ui/issues/9988" %}
 
-{% embed data="{\"url\":\"https://material-ui.com/customization/themes/\#typography-font-family\",\"type\":\"link\",\"title\":\"Themes - Material-UI\",\"description\":\"Customize Material-UI with our theme. You can change the colors, the typography and much more.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://material-ui.com/static/favicon.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://material-ui.com/static/brand.png\",\"width\":480,\"height\":480,\"aspectRatio\":1}}" %}
+{% embed url="https://material-ui.com/customization/themes/\#typography-font-family" %}
 
 
 

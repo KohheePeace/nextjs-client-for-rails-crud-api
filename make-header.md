@@ -170,7 +170,7 @@ This is almost same with [material-ui-example](https://material-ui.com/demos/app
 
 ### Include `Header.js` in `pages/_app.js`
 
-{% embed data="{\"url\":\"https://github.com/zeit/next.js/blob/25de2e814ecda011d4d99386f6c95be0efb3cdf1/readme.md\#custom-app\",\"type\":\"link\",\"title\":\"zeit/next.js\",\"description\":\"next.js - Next.js is a lightweight framework for static and server‑rendered applications.\",\"icon\":{\"type\":\"icon\",\"url\":\"https://github.com/fluidicon.png\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://avatars3.githubusercontent.com/u/14985020?s=400&v=4\",\"width\":400,\"height\":400,\"aspectRatio\":1}}" %}
+{% embed url="https://github.com/zeit/next.js/blob/25de2e814ecda011d4d99386f6c95be0efb3cdf1/readme.md\#custom-app" %}
 
 In nextjs document, it shows use `_app.js` as Layout.
 

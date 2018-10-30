@@ -2,7 +2,7 @@
 
 In this chapter, we are doing the same thigns with this.
 
-{% embed data="{\"url\":\"https://nextjs.org/learn/basics/server-side-support-for-clean-urls\",\"type\":\"link\",\"title\":\"Server Side Support for Clean URLs - Learn Next.js\"}" %}
+{% embed url="https://nextjs.org/learn/basics/server-side-support-for-clean-urls" %}
 
 
 

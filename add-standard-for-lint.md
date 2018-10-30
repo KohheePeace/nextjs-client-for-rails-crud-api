@@ -2,7 +2,7 @@
 
 
 
-{% embed data="{\"url\":\"https://github.com/standard/standard\",\"type\":\"link\",\"title\":\"standard/standard\",\"description\":\"standard - 🌟 JavaScript Style Guide, with linter & automatic code fixer\",\"icon\":{\"type\":\"icon\",\"url\":\"https://github.com/fluidicon.png\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://avatars3.githubusercontent.com/u/29208316?s=400&v=4\",\"width\":209,\"height\":209,\"aspectRatio\":1}}" %}
+{% embed url="https://github.com/standard/standard" %}
 
 
 
@@ -40,7 +40,7 @@ standard: Run `standard --fix` to automatically fix some problems.
 
 ### [Babel Setting](https://github.com/standard/standard#how-do-i-use-experimental-javascript-es-next-features)
 
-{% embed data="{\"url\":\"https://github.com/standard/standard\#how-do-i-use-experimental-javascript-es-next-features\",\"type\":\"link\",\"title\":\"standard/standard\",\"description\":\"standard - 🌟 JavaScript Style Guide, with linter & automatic code fixer\",\"icon\":{\"type\":\"icon\",\"url\":\"https://github.com/fluidicon.png\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://avatars3.githubusercontent.com/u/29208316?s=400&v=4\",\"width\":209,\"height\":209,\"aspectRatio\":1}}" %}
+{% embed url="https://github.com/standard/standard\#how-do-i-use-experimental-javascript-es-next-features" %}
 
 Nextjs uses babel so need to do below
 

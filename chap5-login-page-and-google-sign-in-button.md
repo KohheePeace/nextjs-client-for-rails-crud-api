@@ -6,7 +6,7 @@ In Google Official Docs, they introduce how to Add Google Button,
 
 To work with React seamlessly, We will use this npm package.
 
-{% embed data="{\"url\":\"https://github.com/anthonyjgrove/react-google-login\",\"type\":\"link\",\"title\":\"anthonyjgrove/react-google-login\",\"description\":\"react-google-login - A React Google Login Component\",\"icon\":{\"type\":\"icon\",\"url\":\"https://github.com/fluidicon.png\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://avatars0.githubusercontent.com/u/14151868?s=400&v=4\",\"width\":400,\"height\":400,\"aspectRatio\":1}}" %}
+{% embed url="https://github.com/anthonyjgrove/react-google-login" %}
 
 Okay, Let's Start!
 
@@ -50,7 +50,7 @@ export default Login
 
 To open google form correctly, you need to set `clientId` correctly. Check the below url.
 
-{% embed data="{\"url\":\"https://developers.google.com/identity/sign-in/web/server-side-flow\#step\_1\_create\_a\_client\_id\_and\_client\_secret\",\"type\":\"link\",\"title\":\"Google Sign-In for server-side apps  \|  Google Sign-In for Websites        \|  Google Developers\",\"icon\":{\"type\":\"icon\",\"url\":\"https://developers.google.com/\_static/68b2778ebb/images/touch-icon.png\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://developers.google.com/\_static/68b2778ebb/images/share/devsite-light-green.png\",\"width\":1200,\"height\":630,\"aspectRatio\":0.525}}" %}
+{% embed url="https://developers.google.com/identity/sign-in/web/server-side-flow\#step\_1\_create\_a\_client\_id\_and\_client\_secret" %}
 
 
 
@@ -62,7 +62,7 @@ To open google form correctly, you need to set `clientId` correctly. Check the b
 
 There is another way to send `tokenId` to server 
 
-{% embed data="{\"url\":\"https://developers.google.com/identity/sign-in/web/backend-auth\#send-the-id-token-to-your-server\",\"type\":\"link\",\"title\":\"Authenticate with a backend server  \|  Google Sign-In for Websites        \|  Google Developers\",\"icon\":{\"type\":\"icon\",\"url\":\"https://developers.google.com/\_static/68b2778ebb/images/touch-icon.png\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://developers.google.com/\_static/68b2778ebb/images/share/devsite-light-green.png\",\"width\":1200,\"height\":630,\"aspectRatio\":0.525}}" %}
+{% embed url="https://developers.google.com/identity/sign-in/web/backend-auth\#send-the-id-token-to-your-server" %}
 
 
 
@@ -70,7 +70,7 @@ There is another way to send `tokenId` to server
 
 We the flow we use it this 
 
-{% embed data="{\"url\":\"https://developers.google.com/identity/sign-in/web/server-side-flow\",\"type\":\"link\",\"title\":\"Google Sign-In for server-side apps  \|  Google Sign-In for Websites        \|  Google Developers\",\"icon\":{\"type\":\"icon\",\"url\":\"https://developers.google.com/\_static/08eb25dae9/images/touch-icon.png\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://developers.google.com/\_static/08eb25dae9/images/share/devsite-light-green.png\",\"width\":1200,\"height\":630,\"aspectRatio\":0.525}}" %}
+{% embed url="https://developers.google.com/identity/sign-in/web/server-side-flow" %}
 
 ![\(&#x2605;\) Google Sign in Flow](.gitbook/assets/image%20%281%29.png)
 
