@@ -27,4 +27,5 @@
 * [Logout](logout.md)
 * [Deploy and Custom domain](deploy.md)
 * [Add standard for Lint](add-standard-for-lint.md)
+* [Favicon, Splash Image, Robots.txt ... etc](favicon-splash-image-robots.txt-...-etc.md)
 
